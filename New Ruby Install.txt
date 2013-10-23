@@ -1,0 +1,4 @@
+Rails new install
+1) ruby new filename -OT if not using active record
+2) Install gems
+3) rbenv
